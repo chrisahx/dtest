@@ -1,6 +1,7 @@
 <Solution>
   <Folder Name="/src/">
     <Project Path="src/DTest.Cli/DTest.Cli.csproj" />
+    <Project Path="src/DTest.TestLogger/DTest.TestLogger.csproj" />
   </Folder>
   <Folder Name="/tests/">
     <Project Path="tests/DTest.UnitTests/DTest.UnitTests.csproj" />
